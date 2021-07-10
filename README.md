@@ -1,7 +1,8 @@
 # Proyectos Deep Learning 1st Edition
 <b>27/05/21 - 24/07/21</b>
 <br>
-<b>Mentores:</b>
+
+## Mentores
 
 - Fernando Silva 🇧🇴 [Twitter](https://twitter.com/fernando232s) / [LinkedIn](https://www.linkedin.com/in/fernando-silva-48587613b/)
 - Danna Calle Fernandez 🇧🇴 [Instagram](https://www.instagram.com/soydannacf/) / [LinkedIn](https://www.linkedin.com/in/danna-cf/) / [Facebook](https://www.facebook.com/danna.cf)
